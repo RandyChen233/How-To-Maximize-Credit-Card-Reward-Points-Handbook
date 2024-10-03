@@ -1,5 +1,6 @@
 # You Don't Have to Be A Millionaire to Fly First Class and Stay in Luxury Hotels: A Beginner's Handbook to Maximize Your Credit Card Reward Points
-
+ [![License:
+ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### Motivations
 In recent years, the use of credit card reward programs has skyrocketed, driven by the expanding travel market, increased competition among credit card issuers, and the rise of savvy consumers seeking to maximize their spending power. The allure of earning points and miles from everyday purchases, combined with lucrative sign-up bonuses and travel perks, has made credit cards a powerful tool for consumers who wish to enhance their lifestyles while stretching their dollars further.
 
